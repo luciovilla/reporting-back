@@ -1,0 +1,62 @@
+header{
+  background-image: url(img/header.jpg);
+}
+
+#marshawn-bg{
+	background-image: url();
+}
+
+#raphael-bg{
+	background-image: url(img/ralphie.jpg);
+}
+
+#latasha-bg{
+	background-image: url(img/sha.jpg);
+}
+
+#gloria-bg{
+	background-image: url(img/gloria.jpg);
+}
+
+#bill-bg{
+	background-image: url(img/bill.jpg);
+}
+
+#rosie-bg{
+	background-image: url(img/rosie.jpg);
+}
+
+#sam-bg{
+	background-image: url(img/sam.jpg);
+}
+
+#edwin-bg{
+	background-image: url(img/agan.jpg);
+}
+
+#map{
+	padding: 0;
+}
+
+.bg{
+  background-size: contain;
+  padding: 19% 0;
+  position: relative;
+}
+
+.name{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: black;
+  color: white;
+  padding: 1%;
+}
+
+.navbar-default{
+	background-color: #000;
+}
+
+.navbar-default .nav>li>a, .navbar-default .nav>li>a:focus{
+	color:#ccc;
+}
